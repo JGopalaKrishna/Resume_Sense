@@ -74,6 +74,7 @@ Resume_Sense/
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 🙌 Acknowledgements
+## 🔗 Live Demo
 
-Special thanks to [JGopalaKrishna](https://github.com/JGopalaKrishna) for developing the Resume\_Sense application.
+Check out the live version of the app here:  
+👉 [Resume_Sense - Live App](https://jgopalakrishna-machinelearn-resumesense.streamlit.app/)
