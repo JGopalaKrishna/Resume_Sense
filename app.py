@@ -11,7 +11,7 @@ def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode()
 
-st.set_page_config(page_title="Resume Screener", layout="wide")
+st.set_page_config(page_title="Resume Screener", page_icon="JGKlogo1.png", layout="wide")
 
 st.markdown("""
     <style>
